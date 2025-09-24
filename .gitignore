@@ -1,0 +1,24 @@
+# Скомпилированные бинарники
+parent/parent
+child/child
+build/
+bin/
+
+# Объектные файлы и промежуточные сборки
+*.o
+*.obj
+*.out
+*.exe
+
+# Файлы от редакторов/IDE
+*.swp
+*.swo
+*.log
+*.tmp
+*.bak
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
