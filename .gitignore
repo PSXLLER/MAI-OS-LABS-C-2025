@@ -1,3 +1,6 @@
+# VS Code
+.vscode/
+
 # Скомпилированные бинарники
 parent/parent
 child/child
